@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuidado Natural del Cabello - NaturPlus</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        header {
+            background: #4CAF50;
+            color: #ffffff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .logo {
+            font-size: 2.5em;
+            font-weight: bold;
+        }
+        .eslogan {
+            font-style: italic;
+            font-size: 1.5em;
+            margin-top: 10px;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+        nav a {
+            color: #ffffff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+            background: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #4CAF50;
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 5px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 15px 0;
+            background: #35424a;
+            color: #ffffff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        @media (max-width: 600px) {
+            .logo {
+                font-size: 2em;
+            }
+            .eslogan {
+                font-size: 1.2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="logo.jpeg" alt="Logo NaturPlus" style="width: 150px;">
+        <div class="logo">NaturPlus</div>
+        <div class="eslogan">Cabello Sano, Belleza Natural</div>
+        <nav>
+            <ul>
+                <li><a href="#tonico-romero">Tónico de Romero</a></li>
+                <li><a href="#tonico-hierbabuena">Tónico de Hierbabuena</a></li>
+                <li><a href="#beneficios">Beneficios</a></li>
+                <li><a href="#descripcion">Descripción de Productos</a></li>
+                <li><a href="#objetivos">Objetivos Generales</a></li>
+                <li><a href="#estrategias">Estrategias</a></li>
+                <li><a href="#politicas">Políticas</a></li>
+                <li><a href="#mision-vision">Misión y Visión</a></li>
+                <li><a href="#procedimientos">Procedimientos</a></li>
+                <li><a href="#encuesta">Encuesta</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="tonico-romero">
+        <h2>Tónico de Romero, Cebolla y Jengibre</h2>
+        <img src="tonicoderomeroyhierbabuena.jpeg" alt="Tónico de Romero, Cebolla y Jengibre">
+        <p>Este tónico es ideal para estimular el crecimiento del cabello y fortalecerlo.</p>
+        <h3>Ingredientes</h3>
+        <ul>
+            <li>Romero</li>
+            <li>Cebolla</li>
+            <li>Jengibre</li>
+        </ul>
+        <h3>Propiedades</h3>
+        <ul>
+            <li><strong>Romero:</strong> Mejora la circulación sanguínea en el cuero cabelludo, promoviendo el crecimiento.</li>
+            <li><strong>Cebolla:</strong> Rica en azufre, ayuda a fortalecer el cabello y combatir la caída.</li>
+            <li><strong>Jengibre:</strong> Tiene propiedades antiinflamatorias y estimula la raíz del cabello.</li>
+        </ul>
+        <p>Para más información sobre los beneficios del romero, visita <a href="https://es.wikipedia.org/wiki/Romero" target="_blank">aquí</a>.</p>
+    </section>
+
+    <section id="tonico-hierbabuena">
+        <h2>Tónico de Hierbabuena y Tomillo</h2>
+        <img src="tonicoderomeroyhierbabuena.jpeg" alt="Tónico de Hierbabuena y Tomillo">
+        <p>Este tónico ayuda a refrescar el cuero cabelludo y combate la caspa.</p>
+        <h3>Ingredientes</h3>
+        <ul>
+            <li>Hierbabuena</li>
+            <li>Tomillo</li>
+        </ul>
+        <h3>Propiedades</h3>
+        <ul>
+            <li><strong>Hierbabuena:</strong> Proporciona una sensación refrescante y ayuda a calmar irritaciones.</li>
+            <li><strong>Tomillo:</strong> Antiséptico natural, combate la caspa y promueve un cuero cabelludo saludable.</li>
+        </ul>
+        <p>Para más información sobre los beneficios de la hierbabuena, visita <a href="https://es.wikipedia.org/wiki/Hierbabuena" target="_blank">aquí</a>.</p>
+    </section>
+
+    <section id="descripcion">
+        <h2>Descripción de Productos</h2>
+        <h3>Tónico de Romero, Cebolla y Jengibre</h3>
+        <p>Este tónico combina los beneficios del romero, la cebolla y el jengibre para ofrecer una solución efectiva contra la caída del cabello. El romero estimula el flujo sanguíneo, lo que favorece el crecimiento del cabello, mientras que la cebolla, rica en azufre, fortalece las hebras capilares. Por último, el jengibre proporciona propiedades antiinflamatorias que ayudan a mantener un cuero cabelludo sano.</p>
+
+        <h3>Tónico de Hierbabuena y Tomillo</h3>
+        <p>Este tónico es perfecto para aquellos que buscan una solución refrescante para el cuero cabelludo. La hierbabuena aporta un efecto calmante y refrescante, ideal para combatir la irritación, mientras que el tomillo actúa como un antiséptico natural que ayuda a reducir la caspa y a mantener un cuero cabelludo saludable.</p>
+    </section>
+
+    <section id="beneficios">
+        <h2>Beneficios de los Tónicos Naturales</h2>
+        <ul>
+            <li>Estimulan el crecimiento del cabello.</li>
+            <li>Fortalecen y nutren el cabello desde la raíz.</li>
+            <li>Previenen la caída del cabello.</li>
+            <li>Mejoran la salud del cuero cabelludo.</li>
+            <li>Reducen la caspa y la irritación.</li>
+        </ul>
+    </section>
+
+    <section id="objetivos">
+        <h2>Objetivos Generales</h2>
+        <h3>Objetivo Financiero</h3>
+        <p>Maximizar la rentabilidad a través de la gestión eficiente de costos, el aumento de ventas y expansión en el mercado.</p>
+
+        <h3>Objetivo Administrativo</h3>
+        <p>Garantizar una operación eficiente, una gestión de costos efectiva y un excelente servicio a nuestros clientes.</p>
+
+        <h3>Objetivo Operativo</h3>
+        <p>Centrarnos en la calidad de producto, la innovación en formularios y procesos, y el cumplimiento de las normas de seguridad y salud.</p>
+    </section>
+
+    <section id="estrategias">
+        <h2>Estrategias</h2>
+        <ul>
+            <li>Ingredientes 100% naturales y de alta calidad</li>
+            <li>Investigación y desarrollo continuos</li>
+            <li>Enfoque en la sostenibilidad</li>
+            <li>Innovación en formulaciones</li>
+            <li>Relación cercana con los clientes</li>
+            <li>Producto libre de crueldad animal</li>
+            <li>Precios justos y accesibles</li>
+        </ul>
+    </section>
+
+    <section id="politicas">
+        <h2>Políticas</h2>
+        <ul>
+            <li>Compromiso con lo natural.</li>
+            <li>Transparencia en la etiqueta.</li>
+            <li>Cruelty-free y ético.</li>
+            <li>Sostenibilidad.</li>
+            <li>Apoyo a la comunidad.</li>
+            <li>Excelencia y calidad.</li>
+            <li>Educación y empoderamiento.</li>
+            <li>Investigación y desarrollo continuo.</li>
+            <li>Educación del cliente.</li>
+            <li>Promoción de la belleza natural.</li>
+        </ul>
+    </section>
+
+    <section id="procedimientos">
+        <h2>Procedimientos</h2>
+        <h3>Tónico capilar de Romero con Cebolla</h3>
+        <h4>Ingredientes:</h4>
+        <ul>
+            <li>Agua</li>
+            <li>Ramitas de romero fresco</li>
+            <li>Cebolla</li>
+            <li>Jengibre</li>
+            <li>Clavos de Olor</li>
+            <li>Astillas de canela</li>
+            <li>Vitamina C</li>
+        </ul>
+        <h4>Instrucciones:</h4>
+        <ol>
+            <li><strong>Hervir el agua:</strong> Calienta agua hasta que hierva.</li>
+            <li><strong>Agregar el romero:</strong> Añade las ramitas de romero al agua hirviendo y deja infundir durante 10 minutos a fuego bajo.</li>
+            <li><strong>Preparar la cebolla y jengibre:</strong> Mientras se infunde el romero, corta la cebolla y el jengibre en trozos pequeños.</li>
+            <li><strong>Mezclar:</strong> Agrega la cebolla y jengibre picado, los clavos de olor y las astillas de canela a la infusión, y deja reposar por otros 10 minutos. Aplica la vitamina C.</li>
+            <li><strong>Envasar:</strong> Guarda el tónico en un frasco con atomizador y aplícalo en el cuero cabelludo, dejándolo actuar por al menos 30 minutos antes de enjuagar.</li>
+        </ol>
+
+        <h3>Tónico capilar de Hierbabuena con Tomillo</h3>
+        <h4>Ingredientes:</h4>
+        <ul>
+            <li>Agua</li>
+            <li>Vitamina E</li>
+            <li>Ramitas de hierbabuena fresca</li>
+            <li>Tomillo seco o fresco</li>
+        </ul>
+        <h4>Instrucciones:</h4>
+        <ol>
+            <li><strong>Hervir el agua:</strong> Lleva agua a hervir.</li>
+            <li><strong>Agregar hierbabuena y tomillo:</strong> Coloca la hierbabuena y el tomillo en el agua hirviendo, reduciendo el fuego.</li>
+            <li><strong>Infundir:</strong> Deja que la mezcla hierva a fuego lento durante 10-15 minutos. Aplica la vitamina E y envasar.</li>
+        </ol>
+
+        <p>Ambos tónicos pueden usarse varias veces a la semana para fortalecer el cabello y promover el crecimiento.</p>
+    </section>
+
+    <section id="encuesta">
+        <h2>Encuesta</h2>
+        <p>¡Nos encantaría conocer tu opinión! Por favor, completa nuestra <a href="https://forms.gle/jCmHpU2dL9SiSyv2A" target="_blank">encuesta aquí</a>.</p>
+    </section>
+
+    <section id="mision-vision">
+        <h2>Misión y Visión</h2>
+        <h3>Misión</h3>
+        <p>NaturPlus busca proporcionar productos de belleza de alta calidad que, con sus cremas, realcen la belleza natural de nuestros clientes, al mismo tiempo que promovemos prácticas sostenibles y respetuosas con el medio ambiente en toda nuestra cadena de suministro. Nos comprometemos a ofrecer opciones de belleza consciente que no afecten la salud de nuestros clientes ni la del planeta, y a liderar el camino hacia un futuro más verde y sostenible en la industria de la belleza.</p>
+        
+        <h3>Visión</h3>
+        <p>Para el año 2028, NaturPlus se visualiza como líderes en la industria de la belleza ecológica a nivel regional, siendo reconocidos por la excelencia en la calidad de nuestros productos y nuestro compromiso inquebrantable con la sostenibilidad ambiental. Deseamos inspirar a las personas a abrazar la belleza consciente y a tomar decisiones que beneficien tanto a su bienestar como al del planeta. A través de nuestra innovación constante y nuestras prácticas responsables, aspiramos a contribuir significativamente a la comunidad.</p>
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Si tienes preguntas o deseas más información, no dudes en <a href="miguelchavarriaga43@gmail.com">enviarnos un correo electrónico</a>.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Cuidado Natural del Cabello. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
